@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -g   CMakeFiles/matrix_multi_threads.dir/main.cpp.o  -o matrix_multi_threads 
